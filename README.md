@@ -12,8 +12,8 @@ MERN stack developer skilled in MongoDB, Express.js, React, and Node.js. Special
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sadid56&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sadid56&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## 🔭 My currently projects
-### project name: Strong
+# 🔭 My currently projects
+## project name: Strong
 
 ### ⚙️Technologies:
 - react, mongoDB, ExpressJs, JWT, 
@@ -26,7 +26,7 @@ MERN stack developer skilled in MongoDB, Express.js, React, and Node.js. Special
 - [server github link](https://github.com/sadid56/fitness-tracker_server_side)
 - [live link](https://assignment-12-6812f.web.app/)
 
-### project name: worker
+## project name: worker
 
 ### ⚙️Technologies:
 - react, mongoDB, ExpressJs, JWT, 
@@ -39,7 +39,7 @@ MERN stack developer skilled in MongoDB, Express.js, React, and Node.js. Special
 - [server github link](https://github.com/sadid56/worker_server_side)
 - [live link](https://assignment-11-96d26.web.app/)
 
-### project name: Electronics products
+## project name: Electronics products
 
 ### ⚙️Technologies:
 - react, mongoDB, ExpressJs 
