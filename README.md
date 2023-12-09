@@ -6,7 +6,7 @@
 
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sadid56&theme=shades-of-purple&mode=weekly&exclude_days=Sun&hide_total_contributions=true)](https://git.io/streak-stats)
+<p align="center">[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sadid56&theme=shades-of-purple&mode=weekly&exclude_days=Sun&hide_total_contributions=true)](https://git.io/streak-stats)</p>
 
 
 # 🔭 My currently projects
