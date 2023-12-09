@@ -7,10 +7,8 @@
 - MERN stack developer skilled in MongoDB, Express.js, React, and Node.js. Specialized in creating scalable and efficient web applications. A problem-solver with a keen eye for clean code. Dedicated to continuous learning and collaboration for impactful development
 
 
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sadid56&theme=shades-of-purple&mode=weekly&exclude_days=Sun&hide_total_contributions=true)](https://git.io/streak-stats)
 
-<div style="text-align: center;">
-    [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sadid56&theme=shades-of-purple&mode=weekly&exclude_days=Sun&hide_total_contributions=true)](https://git.io/streak-stats)
-  </div>
 
 
 # 🔭 My currently projects
