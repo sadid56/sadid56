@@ -4,10 +4,6 @@
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
 
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=denvercoder1&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j)](https://git.io/streak-stats)
-
-
 - 🔭 I’m currently working on [Eloctronics products](https://github.com/programming-hero-web-course-4/b8a10-brandshop-client-side-sadid56)
 
 - 👯 I’m looking to collaborate on [worker](https://github.com/Porgramming-Hero-web-course/b8a11-client-side-sadid56)
