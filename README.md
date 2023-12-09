@@ -8,17 +8,20 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sadid56&theme=shades-of-purple&mode=weekly&exclude_days=Sun&hide_total_contributions=true)](https://git.io/streak-stats)
 
 
-## 🔭 My currently projects
+# 🔭 My currently projects
 ### project name: fitness and tracker
 -[github link](https://github.com/programming-hero-web-course1/b8a12-client-side-sadid56)
+
 [live link](https://assignment-12-6812f.web.app/)
 
 ### project name: worker
 -[github link](https://github.com/Porgramming-Hero-web-course/b8a11-client-side-sadid56)
+
 [live link](https://assignment-11-96d26.web.app/)
 
 ### project name: Electronics products
 -[github link](https://github.com/programming-hero-web-course-4/b8a10-brandshop-client-side-sadid56)
+
 [live link](https://assignment-10-ac88b.firebaseapp.com/)
 
 
