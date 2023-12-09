@@ -10,24 +10,22 @@
 
 # 🔭 My currently projects
 ### project name: fitness and tracker
--[github link](https://github.com/programming-hero-web-course1/b8a12-client-side-sadid56)
-
-[live link](https://assignment-12-6812f.web.app/)
+- [github link](https://github.com/programming-hero-web-course1/b8a12-client-side-sadid56)
+- [live link](https://assignment-12-6812f.web.app/)
 
 ### project name: worker
--[github link](https://github.com/Porgramming-Hero-web-course/b8a11-client-side-sadid56)
-
-[live link](https://assignment-11-96d26.web.app/)
+- [github link](https://github.com/Porgramming-Hero-web-course/b8a11-client-side-sadid56)
+- [live link](https://assignment-11-96d26.web.app/)
 
 ### project name: Electronics products
--[github link](https://github.com/programming-hero-web-course-4/b8a10-brandshop-client-side-sadid56)
-
-[live link](https://assignment-10-ac88b.firebaseapp.com/)
+- [github link](https://github.com/programming-hero-web-course-4/b8a10-brandshop-client-side-sadid56)
+- [live link](https://assignment-10-ac88b.firebaseapp.com/)
 
 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://www.linkedin.com/in/sadid-hasan-5b35a62a0/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sadid-hasan-5b35a62a0/" height="30" width="40" /></a>
 <a href="https://www.facebook.com/sadidhasan.hasan.5" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sadid hasan" height="30" width="40" /></a>
 <a href="https://www.instagram.com/sadidhasan56/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sadid" height="30" width="40" /></a>
 </p>
