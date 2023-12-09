@@ -1,7 +1,6 @@
 ![MasterHead](https://i.ibb.co/d5bTTbb/408459375-894892835479644-204509179301889059-n.jpg...)
     <h1 align="center">Hi 👋, I'm Sadid</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
-(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...")
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sadid56&label=Profile%20views&color=0e75b6&style=flat" alt="sadid56" /> </p>
 
