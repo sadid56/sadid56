@@ -8,9 +8,10 @@
 MERN stack developer skilled in MongoDB, Express.js, React, and Node.js. Specialized in creating scalable and efficient web applications. A problem-solver with a keen eye for clean code. Dedicated to continuous learning and collaboration for impactful development
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=sadid56&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=sadid56&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sadid56&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=sadid56&theme=radical&hide_border=false&include_all_commits=true&count_private=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sadid56&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=sadid56&theme=radical&hide_border=false)
+
 
 ## 🔭 My currently projects
 ### project name: fitness and tracker
