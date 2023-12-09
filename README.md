@@ -1,7 +1,10 @@
-![MasterHead](https://i.ibb.co/yXXYTYj/Blue-Gradient-Dental-Health-Facebook-Fundraiser-Cover-Photo.png...)
+
+    ![MasterHead](https://i.ibb.co/yXXYTYj/Blue-Gradient-Dental-Health-Facebook-Fundraiser-Cover-Photo.png...)
     <h1 align="center">Hi 👋, I'm Sadid</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=)](https://git.io/streak-stats)
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=" alt="GitHub Streak" /></a>
 
 
