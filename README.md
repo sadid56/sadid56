@@ -8,16 +8,20 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sadid56&theme=shades-of-purple&mode=weekly&exclude_days=Sun&hide_total_contributions=true)](https://git.io/streak-stats)
 
 
-### 🔭 I’m currently projects
-- [github link](https://github.com/programming-hero-web-course1/b8a12-client-side-sadid56)[live link](https://assignment-12-6812f.web.app/)
+## 🔭 My currently projects
+### project name: fitness and tracker
+-[github link](https://github.com/programming-hero-web-course1/b8a12-client-side-sadid56)
+[live link](https://assignment-12-6812f.web.app/)
 
-- 👯 I’m looking to collaborate on [worker](https://github.com/Porgramming-Hero-web-course/b8a11-client-side-sadid56)
+### project name: worker
+-[github link](https://github.com/Porgramming-Hero-web-course/b8a11-client-side-sadid56)
+[live link](https://assignment-11-96d26.web.app/)
 
-- 🤝 I’m looking for help with [fitness and tracker](https://github.com/programming-hero-web-course1/b8a12-client-side-sadid56)
+### project name: Electronics products
+-[github link](https://github.com/programming-hero-web-course-4/b8a10-brandshop-client-side-sadid56)
+[live link](https://assignment-10-ac88b.firebaseapp.com/)
 
-- 👨‍💻 All of my projects are available at [https://sadid-portfolio.vercel.app/](https://sadid-portfolio.vercel.app/)
 
-- 📫 How to reach me **sadidhasan56@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
