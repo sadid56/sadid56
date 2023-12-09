@@ -2,11 +2,15 @@
 ![MasterHead](https://i.ibb.co/yXXYTYj/Blue-Gradient-Dental-Health-Facebook-Fundraiser-Cover-Photo.png...)
     <h1 align="center">Hi 👋, I'm Sadid</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
-<p align="center"> MERN stack developer skilled in MongoDB, Express.js, React, and Node.js. Specialized in creating scalable and efficient web applications. A problem-solver with a keen eye for clean code. Dedicated to continuous learning and collaboration for impactful development.</p>
+
+## 🤷‍♂️About Me
+- MERN stack developer skilled in MongoDB, Express.js, React, and Node.js. Specialized in creating scalable and efficient web applications. A problem-solver with a keen eye for clean code. Dedicated to continuous learning and collaboration for impactful development
 
 
 
-<p align="center">[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sadid56&theme=shades-of-purple&mode=weekly&exclude_days=Sun&hide_total_contributions=true)](https://git.io/streak-stats)</p>
+<div style="text-align: center;">
+    [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sadid56&theme=shades-of-purple&mode=weekly&exclude_days=Sun&hide_total_contributions=true)](https://git.io/streak-stats)
+  </div>
 
 
 # 🔭 My currently projects
