@@ -9,14 +9,13 @@ MERN stack developer skilled in MongoDB, Express.js, React, and Node.js. Special
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=sadid56&theme=radical&hide_border=false&include_all_commits=true&count_private=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sadid56&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=sadid56&theme=radical&hide_border=false)
-
+![](https://github-readme-streak-stats.herokuapp.com/?user=sadid56&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sadid56&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ## 🔭 My currently projects
 ### project name: fitness and tracker
 - [client github link](https://github.com/programming-hero-web-course1/b8a12-client-side-sadid56)
-- [server github link](https://github.com/programming-hero-web-course1/b8a12-server-side-sadid56)
+- [server github link](https://github.com/programming-hero-web-course1/b8a12-client-side-sadid56)
 - [live link](https://assignment-12-6812f.web.app/)
 
 ### project name: worker
