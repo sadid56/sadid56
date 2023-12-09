@@ -13,19 +13,43 @@ MERN stack developer skilled in MongoDB, Express.js, React, and Node.js. Special
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sadid56&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ## 🔭 My currently projects
-### project name: fitness and tracker
-- [client github link](https://github.com/programming-hero-web-course1/b8a12-client-side-sadid56)
-- [server github link](https://github.com/programming-hero-web-course1/b8a12-client-side-sadid56)
+### project name: Strong
+
+### ⚙️Technologies:
+- react, mongoDB, ExpressJs, JWT, 
+
+### 📝Description:
+- This is a MERN website and i use JWT token to secure APIs. You see total fitness featured and buy any available trainer and  you can see your daily class schedule.
+
+### 👇Links:
+- [client github link](https://github.com/sadid56/fitness-tracker_client_side)
+- [server github link](https://github.com/sadid56/fitness-tracker_server_side)
 - [live link](https://assignment-12-6812f.web.app/)
 
 ### project name: worker
-- [client github link](https://github.com/Porgramming-Hero-web-course/b8a11-client-side-sadid56)
-- [server github link](https://github.com/Porgramming-Hero-web-course/b8a11-server-side-sadid56)
+
+### ⚙️Technologies:
+- react, mongoDB, ExpressJs, JWT, 
+
+### 📝Description:
+- This is a MERN website and i use JWT token to secure APIs. You can bids now any jobs and add to your jobs, you see your total add jobs.
+
+### 👇Links:
+- [client github link](https://github.com/sadid56/worker_client_side)
+- [server github link](https://github.com/sadid56/worker_server_side)
 - [live link](https://assignment-11-96d26.web.app/)
 
 ### project name: Electronics products
-- [client github link](https://github.com/programming-hero-web-course-4/b8a10-brandshop-client-side-sadid56)
-- [server github link](https://github.com/programming-hero-web-course-4/b8a10-brandshop-server-side-sadid56)
+
+### ⚙️Technologies:
+- react, mongoDB, ExpressJs 
+
+### 📝Description:
+- This is a Simple MERN website, never secure a APIs, anyone add product and anyone delete product see any products.
+
+### 👇Links:
+- [client github link](https://github.com/sadid56/electronics_products_clients_side)
+- [server github link](https://github.com/sadid56/electronic_products_server_side)
 - [live link](https://assignment-10-ac88b.firebaseapp.com/)
 
 
