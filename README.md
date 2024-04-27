@@ -1,35 +1,44 @@
 
-![MasterHead](https://i.ibb.co/yXXYTYj/Blue-Gradient-Dental-Health-Facebook-Fundraiser-Cover-Photo.png...)
-    <h1 align="center">Hi 👋, I'm Sadid</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+![MasterHead](https://i.ibb.co/RNnbN34/Neon-Modern-Futuristic-Simple-Gaming-You-Tube-Banner.png...)
+    <h1 align="center">Hi 👋, I'm Sadid Hasan</h1>
+<h3 align="center">A passionate Front-end | React developer from Bangladesh</h3>
 
 
 ## 💫 About Me:
-MERN stack developer skilled in MongoDB, Express.js, React, and Node.js. Specialized in creating scalable and efficient web applications. A problem-solver with a keen eye for clean code. Dedicated to continuous learning and collaboration for impactful development
+Hello there, i am a Frontend and react developer behind the MERN stack developer skilled in React/Next.js, Javascript, tailwindcss,  MongoDB, express.js, Node.js and more Specialized in creating smooth and efficient web applications. I have worked 2 months team project. So I can collaborate well with any team and highly motivated to learn and contribute to creating user-friendly web applications.
 
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=sadid56&theme=radical&hide_border=false&include_all_commits=true&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=sadid56&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sadid56&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<div style="display: flex; justify-content: center;">
+    <div style="flex: 1;">
+        ## 📊 GitHub Stats:
+        <img src="https://github-readme-stats.vercel.app/api?username=sadid56&theme=radical&hide_border=false&include_all_commits=true&count_private=false" />
+    </div>
+    <div style="flex: 1;">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=sadid56&theme=radical&hide_border=false" /><br/>
+    </div>
+    <div style="flex: 1;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadid56&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
+    </div>
+</div>
+
 
 # 🔭 My currently projects
-## project name: Strong
+## project name: DrivePulse | Online file sharing | team project
 
 ### ⚙️Technologies:
-- react, mongoDB, ExpressJs, JWT, 
+- Next.js, TypeScript, tailwindcss, mongoose, ExpressJs, node.js, firebase storage, socket.io, JWT etc. 
 
 ### 📝Description:
-- This is a MERN website and i use JWT token to secure APIs. You see total fitness featured and buy any available trainer and  you can see your daily class schedule.
+- This is a online file  sharing website and user friendly UI design. Authentication user can upload his/her file and share this file in real-time. User can create folder and upload any file inside this folder and this is a nasted route like google drive. User can add conversation and collaborate with real-time chat.
 
 ### 👇Links:
-- [client github link](https://github.com/sadid56/fitness-tracker_client_side)
-- [server github link](https://github.com/sadid56/fitness-tracker_server_side)
-- [live link](https://assignment-12-6812f.web.app/)
+- [client github link](https://github.com/Binary-Masters/DrivePulse-Client)
+- [server github link](https://github.com/Binary-Masters/DrivePulse-Server)
+- [live link](https://drive-pulse-client.vercel.app/)
 
-## project name: worker
+## project name: Free Time | Social media
 
 ### ⚙️Technologies:
-- react, mongoDB, ExpressJs, JWT, 
+- React, tailwindcss, mongoDB, firebase, ExpressJs, socket.io etc.   
 
 ### 📝Description:
 - This is a MERN website and i use JWT token to secure APIs. You can bids now any jobs and add to your jobs, you see your total add jobs.
@@ -48,9 +57,9 @@ MERN stack developer skilled in MongoDB, Express.js, React, and Node.js. Special
 - This is a Simple MERN website, never secure a APIs, anyone add product and anyone delete product see any products.
 
 ### 👇Links:
-- [client github link](https://github.com/sadid56/electronics_products_clients_side)
-- [server github link](https://github.com/sadid56/electronic_products_server_side)
-- [live link](https://assignment-10-ac88b.firebaseapp.com/)
+- [client github link](https://github.com/sadid56/fitness-tracker_client_side)
+- [server github link](https://github.com/sadid56/fitness-tracker_server_side)
+- [live link](https://assignment-12-6812f.web.app/)
 
 
 ## 🌐 Socials:
