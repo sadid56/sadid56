@@ -9,12 +9,12 @@ Hello there, i am a Frontend and react developer behind the MERN stack developer
 
  ## 📊 GitHub Stats:
 <!-- Add a container div with flexbox styles -->
-<div style="display: flex; justify-content: center;">
+<div>
     <div>
         <img src="https://github-readme-stats.vercel.app/api?username=sadid56&theme=radical&hide_border=false&include_all_commits=true&count_private=false" style="width: 100%"/>
     </div>
     <div>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadid56&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact"  style="width: 100% ; height: 200px"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadid56&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact"  style="width: 100% "/>
     </div>
 </div>
 
