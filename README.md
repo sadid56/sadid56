@@ -7,13 +7,13 @@
 ## 💫 About Me:
 Hello there, i am a Frontend and react developer behind the MERN stack developer skilled in React/Next.js, Javascript, tailwindcss,  MongoDB, express.js, Node.js and more Specialized in creating smooth and efficient web applications. I have worked 2 months team project. So I can collaborate well with any team and highly motivated to learn and contribute to creating user-friendly web applications.
 
+ ## 📊 GitHub Stats:
 <div style="display: flex; justify-content: center;">
     <div style="flex: 1;">
-        ## 📊 GitHub Stats:
         <img src="https://github-readme-stats.vercel.app/api?username=sadid56&theme=radical&hide_border=false&include_all_commits=true&count_private=false" />
     </div>
     <div style="flex: 1;">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=sadid56&theme=radical&hide_border=false" /><br/>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=sadid56&theme=radical&hide_border=false" />
     </div>
     <div style="flex: 1;">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadid56&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
