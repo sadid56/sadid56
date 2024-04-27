@@ -10,7 +10,7 @@ Hello there, i am a Frontend and react developer behind the MERN stack developer
  ## 📊 GitHub Stats:
 <div style="display: flex; justify-content: center;">
     <div style="flex: 1;">
-        <img src="https://github-readme-stats.vercel.app/api?username=sadid56&theme=radical&hide_border=false&include_all_commits=true&count_private=false" />
+        <img src="https://github-readme-stats.vercel.app/api?username=sadid56&theme=radical&hide_border=false&include_all_commits=true&count_private=false"  style="width: 100%" />
     </div>
     <div style="flex: 1;">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=sadid56&theme=radical&hide_border=false" />
@@ -19,6 +19,7 @@ Hello there, i am a Frontend and react developer behind the MERN stack developer
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadid56&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
     </div>
 </div>
+
 
 
 # 🔭 My currently projects
