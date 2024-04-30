@@ -1,5 +1,5 @@
 
-<div style="background-image: url(https://i.ibb.co/pvCVYH7/Blue-Black-Modern-Technology-Linked-In-Banner.png); background-size: cover; background-position: center; height: 300px;"></div>
+![MasterHead](https://i.ibb.co/pvCVYH7/Blue-Black-Modern-Technology-Linked-In-Banner.png...)
     <h1 align="center">Hi 👋, I'm Sadid Hasan</h1>
 <h3 align="center">A passionate Front-end | React developer from Bangladesh</h3>
 
@@ -9,14 +9,10 @@ Hello there, i am a Frontend and react developer behind the MERN stack developer
 
  ## 📊 GitHub Stats:
 <!-- Add a container div with flexbox styles -->
-<div>
-    <div>
-        <img src="https://github-readme-stats.vercel.app/api?username=sadid56&theme=radical&hide_border=false&include_all_commits=true&count_private=false" style="width: 100%"/>
-    </div>
-    <div>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadid56&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact"  style="width: 100% "/>
-    </div>
-</div>
+<img src="https://github-readme-stats.vercel.app/api?username=sadid56&theme=radical&hide_border=false&include_all_commits=true&count_private=false"/>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadid56&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact"/>
+
+
 
 # 🔭 My currently projects
 ## project name: DrivePulse | Online file sharing | team project
