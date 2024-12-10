@@ -10,18 +10,8 @@ I am a Full Stack Web Developer with 1 year of experience specializing in React,
 <br>
 <br>
 
-<table>
-  <tr>
-    <td height="50"></td>
-  </tr>
-  <tr>
-    <td>
-      <img align="right" width="160px" height="150" src="https://i.imgflip.com/65efzo.gif" />
-    </td>
-  </tr>
-</table>
 
-
+ <img align="right" width="160px" height="150" src="https://i.imgflip.com/65efzo.gif" />
 
 
 
