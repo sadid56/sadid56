@@ -10,6 +10,12 @@ I am a Full Stack Web Developer with 1 year of experience specializing in React,
 <br>
 <br>
 
+###
+<br>
+<img style="margin-bottom: 50px;" align="right" height="150" src="https://i.imgflip.com/65efzo.gif" />
+
+###
+
 ## 💻 Skills -
 
 <div align="left">
@@ -57,12 +63,6 @@ I am a Full Stack Web Developer with 1 year of experience specializing in React,
 
 </div>
 
-
-###
-<br>
-<img style="margin-bottom: 50px;" align="right" height="150" src="https://i.imgflip.com/65efzo.gif" />
-
-###
 
 
 <br>
