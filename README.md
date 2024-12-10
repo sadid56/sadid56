@@ -7,6 +7,9 @@
 
 I am a Full Stack Web Developer with 1 year of experience specializing in React, Next.js, TypeScript, Tailwind CSS, MongoDB, Express.js, and Node.js. I focus on building smooth, efficient, and user-friendly web applications. Highly motivated to learn and collaborate, I strive to deliver impactful solutions and contribute effectively to any team.
 
+<br>
+<br>
+
 ## 💻 Skills -
 
 <div align="left">
@@ -59,6 +62,9 @@ I am a Full Stack Web Developer with 1 year of experience specializing in React,
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
 ###
+
+<br>
+<br>
 
 ## 🌐 Socials -
 
