@@ -66,7 +66,7 @@ I am a Full Stack Web Developer with 1 year of experience specializing in React,
 
 <br>
 
-## 🌐 Socials -
+- 🌐 Socials -
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/sadidhasan.hasan.5) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/sadidhasan56/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mr-sadid/)
 
@@ -82,7 +82,7 @@ I am a Full Stack Web Developer with 1 year of experience specializing in React,
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-# 🔭 My currently projects
+<!-- # 🔭 My currently projects
 
 ## project name: DrivePulse | Online file sharing | team project
 
@@ -130,7 +130,7 @@ I am a Full Stack Web Developer with 1 year of experience specializing in React,
 
 - [client github link](https://github.com/sadid56/fitness-tracker_client_side)
 - [server github link](https://github.com/sadid56/fitness-tracker_server_side)
-- [live link](https://assignment-12-6812f.web.app/)
+- [live link](https://assignment-12-6812f.web.app/) -->
 
 ---
 
