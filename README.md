@@ -71,9 +71,9 @@ I am a Full Stack Web Developer with 1 year of experience specializing in React,
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/sadidhasan.hasan.5) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/sadidhasan56/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mr-sadid/)
 
 <br>
-<br>
 
 ## 📊 GitHub Stats:
+<br>
 
 <!-- Add a container div with flexbox styles -->
 
@@ -131,8 +131,8 @@ I am a Full Stack Web Developer with 1 year of experience specializing in React,
 - [client github link](https://github.com/sadid56/fitness-tracker_client_side)
 - [server github link](https://github.com/sadid56/fitness-tracker_server_side)
 - [live link](https://assignment-12-6812f.web.app/) -->
-
----
+<br>
+--
 
 [![](https://visitcount.itsvg.in/api?id=sadid56&icon=0&color=0)](https://visitcount.itsvg.in)
 
