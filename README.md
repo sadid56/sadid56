@@ -11,58 +11,40 @@ I am a Full Stack Web Developer with 1 year of experience specializing in React,
 <br>
 
 
- <img align="right" width="160px" height="150" src="https://i.imgflip.com/65efzo.gif" />
-
-
-
-## 💻 Skills -
-<br>
-<br>
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="20" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="20" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="20" />
-
-  <img src="https://sadid.vercel.app/_next/image?url=https%3A%2F%2Fi.ibb.co%2FKLWYXRT%2Fnext-js-icon-logo-EE302-D5-DBD-seeklogo-com.png&w=256&q=100" height="40" alt="Next js logo"  />
-  <img width="20" />
-
-  <img src="https://i.ibb.co.com/NnSJD62/images.jpg" height="40" alt="Remix logo"  />
-  <img width="20" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="20" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="20" />
-
-  <img src="https://i.ibb.co/hBmwFBs/tailwind-removebg-preview.png" height="40" alt="tailwind logo"  />
-  <img width="20" />
-
-  <img src="https://i.ibb.co/8NjKgpc/bb13aeb51c54421a7a5540a7132895dc.png" height="40" alt="MUI logo"  />
-  <img width="20" />
-
-  <img src="https://i.ibb.co.com/tPqCLJv/logo.png" height="40" alt="Redux logo"  />
-  <img width="20" />
-
-  <img src="https://i.ibb.co/THgqjW5/nodejs-logo-FBE122-E377-seeklogo-com.png" height="40" alt="Node logo"  />
-  <img width="20" />
-
-  <img src="https://i.ibb.co/W2cVpxd/download.png" height="40" alt="Node logo"  />
-  <img width="20" />
-
-  <img src="https://i.ibb.co/61gsjw0/express-js.png" height="40" alt="Node logo"  />
-  <img width="20" />
-
-  <img src="https://i.ibb.co/HHkt8Q0/AWS-logo-png.jpg" height="40" alt="Node logo"  />
-  <img width="20" />
-
-</div>
+<table>
+  <tr>
+    <!-- Left Column -->
+    <td>
+      <h2>💻 Skills</h2>
+      <div align="left">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
+        <img width="20" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" />
+        <img width="20" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
+        <img width="20" />
+        <img src="https://sadid.vercel.app/_next/image?url=https%3A%2F%2Fi.ibb.co%2FKLWYXRT%2Fnext-js-icon-logo-EE302-D5-DBD-seeklogo-com.png&w=256&q=100" height="40" alt="Next.js logo" />
+        <img width="20" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
+        <img width="20" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" />
+        <img width="20" />
+        <img src="https://i.ibb.co/hBmwFBs/tailwind-removebg-preview.png" height="40" alt="tailwind logo" />
+        <img width="20" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="node.js logo" />
+        <img width="20" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo" />
+        <img width="20" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo" />
+        <img width="20" />
+      </div>
+    </td>
+    <!-- Right Column -->
+    <td align="center">
+      <img align="center" width="160px" height="150" src="https://i.imgflip.com/65efzo.gif" alt="fun gif" />
+    </td>
+  </tr>
+</table>
 
 
 
