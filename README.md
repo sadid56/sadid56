@@ -10,7 +10,7 @@ I am a Full Stack Web Developer with 1 year of experience specializing in React,
 <br>
 <br>
 
- <img width="40" />
+ <img width="100" />
  <img align="right" width="160px" height="150" src="https://i.imgflip.com/65efzo.gif" />
 
 
