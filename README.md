@@ -11,7 +11,7 @@ I am a Full Stack Web Developer with 1 year of experience specializing in React,
 <br>
 
 
-<img align="center" height="150" src="https://i.imgflip.com/65efzo.gif" />
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" />
 
 
 
