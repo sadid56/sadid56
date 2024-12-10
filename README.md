@@ -16,6 +16,8 @@ I am a Full Stack Web Developer with 1 year of experience specializing in React,
 
 
 ## 💻 Skills -
+<br>
+<br>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
