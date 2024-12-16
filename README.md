@@ -121,14 +121,17 @@ I am a Full Stack Web Developer with 1 year of experience specializing in React,
 <br>
 
 <!-- Add a container div with flexbox styles -->
+<table align="center">
+<td>
+ <img src="https://github-readme-stats.vercel.app/api?username=sadid56&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+</td>
+<td>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sadid56&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</td>
+</table>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-## Activity
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sadid56&bg_color=1a191a&color=4c9e9d&line=1c87ca&point=218c8b&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+## 📈 Activity Graph -
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sadid56&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
