@@ -15,7 +15,7 @@ I am a Full Stack Web Developer with 1 year of experience specializing in React,
   <tr>
     <!-- Left Column -->
     <td>
-      <h2>✅ Learned Skills</h2>
+      <h2>✅ Learned</h2>
       <div align="left">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript logo" />
         <img width="20" />
@@ -109,7 +109,7 @@ I am a Full Stack Web Developer with 1 year of experience specializing in React,
       </table>
     </td>
    <td align="center">
-      <img align="center" width="240px" height="150" src="https://media.tenor.com/iviIq2uXz-kAAAAi/work-office.gif" alt="fun gif" />
+      <img align="center" width="240px" height="150" src="https://resetfest.com/wp-content/uploads/2019/07/Cover-Gif-social-media-and-parenting-1000x600.gif" alt="fun gif" />
     </td>
 </table>
 
