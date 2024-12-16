@@ -129,8 +129,9 @@ I am a Full Stack Web Developer with 1 year of experience specializing in React,
 
 ## Activity
 <div align="center">
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sadid56&theme=tokyo-night)](https://github.com/sadid56/github-readme-activity-graph)
+  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sadid56&theme=tokyo-night)](https://github.com/sadid56/github-readme-activity-graph)
 </div>
+
 
 <!-- # 🔭 My currently projects
 
