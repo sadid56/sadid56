@@ -60,14 +60,14 @@ I am a Full Stack Web Developer with 1 year of experience specializing in React,
 ## 📫 Reach Me
 
 ### 📲 Contact
-➡️ **Whatsapp**: +880 1739859756
-➡️ **Email**: sadidhasan56@gmail.com
+➡️ **Whatsapp**: +880 1739859756 <br>
+➡️ **Email**: sadidhasan56@gmail.com <br>
 ➡️ **Portfolio**: [sadid.vercel.app](https://sadid.vercel.app)
 
 ### 🌐 Socials
-➡️ [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mr-sadid/)
-➡️ [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/sadidhasan.hasan.5)
-➡️ [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/1151169623149002752/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mr-sadid/)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/sadidhasan.hasan.5)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/1151169623149002752/)
 
 <br>
 
