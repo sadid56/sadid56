@@ -99,7 +99,7 @@ I am a Full Stack Web Developer with 1 year of experience specializing in React,
       </table>
     </td>
    <td align="center">
-      <img align="center" width="160px" height="150" src="https://media.tenor.com/iviIq2uXz-kAAAAi/work-office.gif" alt="fun gif" />
+      <img align="center" height="150" src="https://media.tenor.com/iviIq2uXz-kAAAAi/work-office.gif" alt="fun gif" />
     </td>
 </table>
 
