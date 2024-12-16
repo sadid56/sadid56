@@ -59,7 +59,7 @@ I am a Full Stack Web Developer with 1 year of experience specializing in React,
 
 ## 📫 Reach Me
 
-<table style="width:100%;">
+<table align="center" style="width:100%;">
   <tr>
     <!-- Left Side: Contact -->
     <td style="width: 50%; vertical-align: top;">
