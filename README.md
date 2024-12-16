@@ -59,59 +59,22 @@ I am a Full Stack Web Developer with 1 year of experience specializing in React,
 
 ## 📫 Reach Me
 
-<table style="width:100%;">
-  <tr>
-    <!-- Left Table: Contact -->
-    <td style="vertical-align: top; width: 50%; padding-right: 10px;">
-      <h3>📲 Contact</h3>
-      <table style="width: 100%;">
-        <tr>
-          <td>➡️ <strong>Whatsapp</strong></td>
-          <td>+880 1739859756</td>
-        </tr>
-        <tr>
-          <td>➡️ <strong>Email</strong></td>
-          <td><a href="mailto:sadidhasan56@gmail.com">sadidhasan56@gmail.com</a></td>
-        </tr>
-        <tr>
-          <td>➡️ <strong>Portfolio</strong></td>
-          <td><a href="https://sadid.vercel.app" target="_blank">https://sadid.vercel.app</a></td>
-        </tr>
-      </table>
-    </td>
+### 📲 Contact
+|                       |                         |
+|-----------------------|-------------------------|
+| ➡️ **Whatsapp**       | +880 1739859756         |
+| ➡️ **Email**          | [sadidhasan56@gmail.com](mailto:sadidhasan56@gmail.com) |
+| ➡️ **Portfolio**      | [sadid.vercel.app](https://sadid.vercel.app) |
 
-    <!-- Right Table: Socials -->
-    <td style="vertical-align: top; width: 50%; padding-left: 10px;">
-      <h3>🌐 Socials</h3>
-      <table style="width: 100%;">
-        <tr>
-          <td>➡️ <strong>LinkedIn</strong></td>
-          <td>
-            <a href="https://www.linkedin.com/in/mr-sadid/" target="_blank">
-              <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
-            </a>
-          </td>
-        </tr>
-        <tr>
-          <td>➡️ <strong>Facebook</strong></td>
-          <td>
-            <a href="https://www.facebook.com/sadidhasan.hasan.5" target="_blank">
-              <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" alt="Facebook">
-            </a>
-          </td>
-        </tr>
-        <tr>
-          <td>➡️ <strong>Discord</strong></td>
-          <td>
-            <a href="https://discord.com/users/1151169623149002752/" target="_blank">
-              <img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" alt="Discord">
-            </a>
-          </td>
-        </tr>
-      </table>
-    </td>
-  </tr>
-</table>
+---
+
+### 🌐 Socials
+|                       |                         |
+|-----------------------|-------------------------|
+| ➡️ **LinkedIn**       | [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mr-sadid/) |
+| ➡️ **Facebook**       | [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/sadidhasan.hasan.5) |
+| ➡️ **Discord**        | [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/1151169623149002752/) |
+
 
 
 <br>
