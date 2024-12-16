@@ -45,8 +45,6 @@ I am a Full Stack Web Developer with 1 year of experience specializing in React,
         <img width="20" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB logo" />
         <img width="20" />
-        <img src="https://i.ibb.co/HHkt8Q0/AWS-logo-png.jpg" height="40" alt="AWS logo" />
-        <img width="20" />
       </div>
     </td>
     <td align="center">
