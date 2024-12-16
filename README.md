@@ -128,9 +128,8 @@ I am a Full Stack Web Developer with 1 year of experience specializing in React,
 </div>
 
 ## Activity
-<div align="center">
-  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sadid56&bg_color=1a191a&color=4c9e9d&line=1c87ca&point=218c8b&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-</div>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sadid56&bg_color=1a191a&color=4c9e9d&line=1c87ca&point=218c8b&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 
 <!-- # 🔭 My currently projects
