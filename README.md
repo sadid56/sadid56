@@ -9,30 +9,33 @@ I am a Full Stack Web Developer with 1 year of experience specializing in React,
 
 <br>
 
+
+## 💻 Skills
 <table>
   <tr>
     <!-- Left Column -->
-    <td style="vertical-align: top; width: 70%;">
-      <h2>💻 Skills</h2>
-      <h3>✅ Learned Skills</h3>
+    <td>
+      <h2>✅ Learned Skills</h2>
       <div align="left">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript logo" />
+        <img width="20" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript logo" />
+        <img width="20" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React logo" />
+        <img width="20" />
+        <img src="https://sadid.vercel.app/_next/image?url=https%3A%2F%2Fi.ibb.co%2FKLWYXRT%2Fnext-js-icon-logo-EE302-D5-DBD-seeklogo-com.png&w=256&q=100" height="40" alt="Next.js logo" />
+        <img width="20" />
+        <img src="https://i.ibb.co.com/NnSJD62/images.jpg" height="40" alt="Remix logo" />
+        <img width="20" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5 logo" />
         <img width="20" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3 logo" />
         <img width="20" />
+        <img src="https://i.ibb.co/hBmwFBs/tailwind-removebg-preview.png" height="40" alt="Tailwind CSS logo" />
+        <img width="20" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap logo" />
         <img width="20" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript logo" />
-        <img width="20" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React logo" />
-      </div>
-      <br />
-      <!-- Current Skills -->
-      <h3>⚡ Current Skills</h3>
-      <div align="left">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript logo" />
-        <img width="20" />
-        <img src="https://sadid.vercel.app/_next/image?url=https%3A%2F%2Fi.ibb.co%2FKLWYXRT%2Fnext-js-icon-logo-EE302-D5-DBD-seeklogo-com.png&w=256&q=100" height="40" alt="Next.js logo" />
+        <img src="https://i.ibb.co/8NjKgpc/bb13aeb51c54421a7a5540a7132895dc.png" height="40" alt="MUI logo" />
         <img width="20" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="Redux logo" />
         <img width="20" />
@@ -42,27 +45,27 @@ I am a Full Stack Web Developer with 1 year of experience specializing in React,
         <img width="20" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB logo" />
         <img width="20" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40" alt="Tailwind CSS logo" />
+        <img src="https://i.ibb.co/HHkt8Q0/AWS-logo-png.jpg" height="40" alt="AWS logo" />
         <img width="20" />
-        <img src="https://i.ibb.co/8NjKgpc/bb13aeb51c54421a7a5540a7132895dc.png" height="40" alt="MUI logo" />
       </div>
-      <br />
-      <!-- Learning -->
-      <h3>📖 Learning</h3>
-      <div align="left">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java logo" />
+    </td>
+    <td align="center">
+     <h2>📖 Learning</h2>
+    <div>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java logo" />
         <img width="20" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python logo" />
         <img width="20" />
         <img src="https://i.ibb.co/HHkt8Q0/AWS-logo-png.jpg" height="40" alt="AWS logo" />
-      </div>
+    </div>
     </td>
     <!-- Right Column -->
-    <td align="center" style="width: 30%; vertical-align: top;">
-      <img align="center" width="160px" height="150px" src="https://media.tenor.com/iviIq2uXz-kAAAAi/work-office.gif" alt="fun gif" />
+    <td align="right">
+      <img align="center" width="160px" height="150" src="https://media.tenor.com/iviIq2uXz-kAAAAi/work-office.gif" alt="fun gif" />
     </td>
   </tr>
 </table>
+
 
 <br>
 
