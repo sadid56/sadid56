@@ -1,11 +1,11 @@
-![MasterHead](https://i.ibb.co/ynhm1M7/Blue-Black-Modern-Technology-Linked-In-Banner.png...)
+![MasterHead](https://i.ibb.co/ynhm1M7/Blue-Black-Modern-Technology-Linked-In-Banner.png)
 <h1 align="center">Hey 👋, I'm Sadid</h1>
 
 <h3 align="center">Passionate and Skilled Full Stack Web Developer.</h3>
 
 ## 💫 About Me -
 
-I am a Full Stack Web Developer with 1 year of experience specializing in React, Next.js, TypeScript, Tailwind CSS, MongoDB, Express.js, and Node.js. I focus on building smooth, efficient, and user-friendly web applications. Highly motivated to learn and collaborate, I strive to deliver impactful solutions and contribute effectively to any team.
+I am a Full Stack Web Developer with 1.5 year of experience specializing in React, Next.js, TypeScript, Tailwind CSS, MongoDB, Express.js, and Node.js. I focus on building smooth, efficient, and user-friendly web applications. Highly motivated to learn and collaborate, I strive to deliver impactful solutions and contribute effectively to any team.
 
 <br>
 
