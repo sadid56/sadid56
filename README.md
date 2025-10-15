@@ -23,7 +23,7 @@ I am a Full Stack Web Developer with 1.5 year of experience specializing in Reac
         <img width="20" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React logo" />
         <img width="20" />
-        <img src="https://sadid.vercel.app/_next/image?url=https%3A%2F%2Fi.ibb.co%2FKLWYXRT%2Fnext-js-icon-logo-EE302-D5-DBD-seeklogo-com.png&w=256&q=100" height="40" alt="Next.js logo" />
+        <img src="https://imgur.com/a/sp0u7co.jpg" height="40" alt="Next.js logo" />
         <img width="20" />
         <img src="https://i.ibb.co.com/NnSJD62/images.jpg" height="40" alt="Remix logo" />
         <img width="20" />
