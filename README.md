@@ -26,14 +26,14 @@ I am a Full Stack Web Developer with 1.5 year of experience specializing in Reac
         <img src="https://i.ibb.co.com/xMD48kb/nextjs7685-logowik-com.webp" height="40" alt="Next.js logo" />
         <img width="20" />
         <img src="https://i.ibb.co.com/NnSJD62/images.jpg" height="40" alt="Remix logo" />
-        <img width="20" />
+        <!-- <img width="20" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5 logo" />
         <img width="20" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3 logo" />
         <img width="20" />
         <img src="https://i.ibb.co/hBmwFBs/tailwind-removebg-preview.png" height="40" alt="Tailwind CSS logo" />
         <img width="20" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap logo" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap logo" /> -->
         <img width="20" />
         <img src="https://i.ibb.co/8NjKgpc/bb13aeb51c54421a7a5540a7132895dc.png" height="40" alt="MUI logo" />
         <img width="20" />
@@ -45,22 +45,23 @@ I am a Full Stack Web Developer with 1.5 year of experience specializing in Reac
         <img width="20" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB logo" />
         <img width="20" />
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1985px-Postgresql_elephant.svg.png" height="40"            alt="MongoDB logo" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1985px-Postgresql_elephant.svg.png" height="40"            alt="Postgres Logo" />
         <img width="20" />
-        <img src="https://cdn.worldvectorlogo.com/logos/prisma-2.svg" height="40" alt="MongoDB logo" />
+        <img src="https://cdn.worldvectorlogo.com/logos/prisma-2.svg" height="40" alt="Prisma Logo" />
         <img width="20" />
-        <img src="https://images.seeklogo.com/logo-png/35/1/docker-logo-png_seeklogo-352738.png" height="40" alt="MongoDB logo" />
+        <img src="https://images.seeklogo.com/logo-png/35/1/docker-logo-png_seeklogo-352738.png" height="40" alt="Docker Logo" />
         <img width="20" />
+        <img src="https://i.ibb.co/HHkt8Q0/AWS-logo-png.jpg" height="40" alt="AWS logo" />
       </div>
     </td>
     <td align="center">
      <h2>📖 Learning</h2>
     <div>
     <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java logo" /> -->
-        <img width="20" />
+        <!-- <img width="20" /> -->
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python logo" />
-        <img width="20" />
-        <img src="https://i.ibb.co/HHkt8Q0/AWS-logo-png.jpg" height="40" alt="AWS logo" />
+        <!-- <img width="20" /> -->
+        <!-- <img src="https://i.ibb.co/HHkt8Q0/AWS-logo-png.jpg" height="40" alt="AWS logo" /> -->
     </div>
     </td>
     <!-- Right Column -->
