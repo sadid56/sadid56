@@ -24,8 +24,8 @@ I am a Full Stack Web Developer with 1.5 year of experience specializing in Reac
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React logo" />
         <img width="20" />
         <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/nextjs-icon.png" height="40" alt="Next.js logo" />
-        <img width="20" />
-        <img src="https://i.ibb.co.com/NnSJD62/images.jpg" height="40" alt="Remix logo" />
+        <!-- <img width="20" />
+        <img src="https://i.ibb.co.com/NnSJD62/images.jpg" height="40" alt="Remix logo" /> -->
         <!-- <img width="20" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5 logo" />
         <img width="20" />
