@@ -49,7 +49,7 @@ I am a Full Stack Web Developer with 1.5 year of experience specializing in Reac
         <img width="20" />
         <img src="https://cdn.worldvectorlogo.com/logos/prisma-2.svg" height="40" alt="Prisma Logo" />
         <img width="20" />
-        <img src="https://images.seeklogo.com/logo-png/35/1/docker-logo-png_seeklogo-352738.png" height="40" alt="Docker Logo" />
+        <img src="https://www.docker.com/app/uploads/2023/08/logo-guide-logos-1.svg" height="40" alt="Docker Logo" />
         <img width="20" />
         <img src="https://i.ibb.co/HHkt8Q0/AWS-logo-png.jpg" height="40" alt="AWS logo" />
       </div>
