@@ -45,15 +45,18 @@ I am a Full Stack Web Developer with 1.5 year of experience specializing in Reac
         <img width="20" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB logo" />
         <img width="20" />
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1985px-Postgresql_elephant.svg.png" height="40" alt="MongoDB logo" />
-          <img width="20" />
-            <img src="https://cdn.worldvectorlogo.com/logos/prisma-2.svg" height="40" alt="MongoDB logo" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1985px-Postgresql_elephant.svg.png" height="40"            alt="MongoDB logo" />
+        <img width="20" />
+        <img src="https://cdn.worldvectorlogo.com/logos/prisma-2.svg" height="40" alt="MongoDB logo" />
+        <img width="20" />
+        <img src="https://images.seeklogo.com/logo-png/35/1/docker-logo-png_seeklogo-352738.png" height="40" alt="MongoDB logo" />
+        <img width="20" />
       </div>
     </td>
     <td align="center">
      <h2>📖 Learning</h2>
     <div>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java logo" />
+    <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java logo" /> -->
         <img width="20" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python logo" />
         <img width="20" />
