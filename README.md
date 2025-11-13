@@ -59,7 +59,7 @@ I am a Full Stack Web Developer with 1.5 year of experience specializing in Reac
        <img width="20" />
        <img src="https://i.ibb.co.com/QyjN1St/Amazon-Web-Services-AWS-Logo.png" height="40" alt="AWS logo" />
        <img width="20" />
-       <img src="https://res.cloudinary.com/dvphwrb7p/image/upload/v1763045954/portfolio/skills/linux-penguin1721071992.logowik.com_q7vwnl.webp" height="40" alt="Linux logo" />
+       <img src="https://res.cloudinary.com/dvphwrb7p/image/upload/v1763046083/portfolio/skills/png-clipart-linux-distribution-tux-free-software-linux-kernel-linux-logo-bird-thumbnail_lhycrf.png" height="40" alt="Linux logo" />
     </div>
     </td>
     <!-- Right Column -->
