@@ -46,8 +46,6 @@ I am a Full Stack Web Developer with 1.5 year of experience specializing in Reac
         <img src="https://cdn.worldvectorlogo.com/logos/prisma-2.svg" height="40" alt="Prisma Logo" />
         <img width="20" />
         <img src="https://i0.wp.com/blog.kmsigma.com/wp-content/uploads/2025/07/docker-mark-blue-scaled.png" height="40" alt="Docker Logo" />
-        <img width="20" />
-        <img src="https://i.ibb.co.com/QyjN1St/Amazon-Web-Services-AWS-Logo.png" height="40" alt="AWS logo" />
       </div>
     </td>
     <td align="center">
@@ -58,6 +56,10 @@ I am a Full Stack Web Developer with 1.5 year of experience specializing in Reac
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python logo" />
         <!-- <img width="20" /> -->
         <!-- <img src="https://i.ibb.co/HHkt8Q0/AWS-logo-png.jpg" height="40" alt="AWS logo" /> -->
+       <img width="20" />
+       <img src="https://i.ibb.co.com/QyjN1St/Amazon-Web-Services-AWS-Logo.png" height="40" alt="AWS logo" />
+       <img width="20" />
+       <img src="https://i.ibb.co.com/QyjN1St/Amazon-Web-Services-AWS-Logo.png](https://i.ibb.co.com/VGP6dH8/png-clipart-linux-distribution-logo-            ubuntu-unix-s-computer-vertebrate-thumbnail.png)" height="40" alt="AWS logo" />
     </div>
     </td>
     <!-- Right Column -->
