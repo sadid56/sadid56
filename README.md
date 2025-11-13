@@ -35,13 +35,9 @@ I am a Full Stack Web Developer with 1.5 year of experience specializing in Reac
         <img width="20" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap logo" /> -->
         <img width="20" />
-        <img src="https://i.ibb.co/8NjKgpc/bb13aeb51c54421a7a5540a7132895dc.png" height="40" alt="MUI logo" />
-        <img width="20" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="Redux logo" />
         <img width="20" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js logo" />
-        <img width="20" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="Express.js logo" />
         <img width="20" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB logo" />
         <img width="20" />
@@ -51,7 +47,7 @@ I am a Full Stack Web Developer with 1.5 year of experience specializing in Reac
         <img width="20" />
         <img src="https://i0.wp.com/blog.kmsigma.com/wp-content/uploads/2025/07/docker-mark-blue-scaled.png" height="40" alt="Docker Logo" />
         <img width="20" />
-        <img src="https://i.ibb.co/HHkt8Q0/AWS-logo-png.jpg" height="40" alt="AWS logo" />
+        <img src="https://i.ibb.co.com/QyjN1St/Amazon-Web-Services-AWS-Logo.png" height="40" alt="AWS logo" />
       </div>
     </td>
     <td align="center">
@@ -124,73 +120,9 @@ I am a Full Stack Web Developer with 1.5 year of experience specializing in Reac
 
 <br>
 
-## 📊 Stats:
-<br>
-
-<!-- Add a container div with flexbox styles -->
-<table align="center">
-<td>
- <img src="https://github-readme-stats.vercel.app/api?username=sadid56&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-</td>
-<td>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sadid56&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</td>
-</table>
-
 ## 📈 Activity Graph -
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sadid56&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-
-
-<!-- # 🔭 My currently projects
-
-## project name: DrivePulse | Online file sharing | team project
-
-### ⚙️Technologies:
-
-- Next.js, TypeScript, tailwindcss, mongoose, ExpressJs, node.js, firebase storage, socket.io, JWT etc.
-
-### 📝Description:
-
-- This is a online file sharing website and user friendly UI design. Authentication user can upload his/her file and share this file in real-time. User can create folder and upload any file inside this folder and this is a nasted route like google drive. User can add conversation and collaborate with real-time chat.
-
-### 👇Links:
-
-- [client github link](https://github.com/Binary-Masters/DrivePulse-Client)
-- [server github link](https://github.com/Binary-Masters/DrivePulse-Server)
-- [live link](https://drive-pulse-client.vercel.app/)
-
-## project name: Free Time | Social media
-
-### ⚙️Technologies:
-
-- React, tailwindcss, mongoDB, firebase, ExpressJs, socket.io etc.
-
-### 📝Description:
-
-- This is a MERN website and i use JWT token to secure APIs. You can bids now any jobs and add to your jobs, you see your total add jobs.
-
-### 👇Links:
-
-- [client github link](https://github.com/sadid56/worker_client_side)
-- [server github link](https://github.com/sadid56/worker_server_side)
-- [live link](https://assignment-11-96d26.web.app/)
-
-## project name: Electronics products
-
-### ⚙️Technologies:
-
-- react, mongoDB, ExpressJs
-
-### 📝Description:
-
-- This is a Simple MERN website, never secure a APIs, anyone add product and anyone delete product see any products.
-
-### 👇Links:
-
-- [client github link](https://github.com/sadid56/fitness-tracker_client_side)
-- [server github link](https://github.com/sadid56/fitness-tracker_server_side)
-- [live link](https://assignment-12-6812f.web.app/) -->
 <br>
 <hr>
 
