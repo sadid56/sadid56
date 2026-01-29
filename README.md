@@ -135,7 +135,3 @@ I am a Full Stack Web Developer with 2 years of experience specializing in React
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sadid56/sadid56/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/sadid56/sadid56/output/github-snake.svg" />
 </picture>
-
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=sadid56&theme=radical&no-frame=false&no-bg=true&margin-w=4)
