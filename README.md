@@ -14,7 +14,7 @@
 
 ## 💫 About Me -
 
-I am a Full Stack Web Developer with 2 years of experience building dynamic, full-scale applications. Navigating the tech world through a Linux terminal, I specialize in the React/Next.js ecosystem on the frontend and Node.js/Express on the backend, supported by MongoDB and PostgreSQL. I am a dedicated coder and collaborative problem-solver, driven by a passion for creating smooth, user-friendly software and mastering the tools that make it possible.
+I am a Full Stack Web Developer who builds complete, easy-to-use web apps. I work mostly from a Linux terminal, connecting clean frontends with strong backends. I love solving problems, writing code that simply works well, and building software that helps the tech community.
 
 <br>
 
