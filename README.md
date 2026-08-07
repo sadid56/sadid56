@@ -1,10 +1,13 @@
+<div align="center">
+  <img src="https://i.pinimg.com/originals/33/ba/eb/33baebf000302824bb8d3ff2805ea986.gif" alt="Coding Banner" width="800"/>
+</div>
+
+<h1 align="center">Hey 👋, I'm Sadid</h1>
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=3B82F6&center=true&vCenter=true&width=800&height=100&lines=Software+Engineer;Full+Stack+Web+Developer;Arch+Linux+Power+User;Always+Building.+Always+Learning." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=3B82F6&center=true&vCenter=true&width=800&height=100&lines=Software+Developer;Full+Stack+Web+Developer;Linux+Community+Helper;Always+Building.+Always+Learning." alt="Typing SVG" />
   </a>
 </p>
-<h1 align="center">Hey 👋, I'm Sadid</h1>
-
 <h3 align="center">Passionate and Skilled Full Stack Web Developer.</h3>
 
 ## 💫 About Me -
