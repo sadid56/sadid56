@@ -1,11 +1,15 @@
-![MasterHead](https://i.ibb.co/ynhm1M7/Blue-Black-Modern-Technology-Linked-In-Banner.png)
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=3B82F6&center=true&vCenter=true&width=800&height=100&lines=Software+Engineer;Full+Stack+Web+Developer;Arch+Linux+Power+User;Always+Building.+Always+Learning." alt="Typing SVG" />
+  </a>
+</p>
 <h1 align="center">Hey 👋, I'm Sadid</h1>
 
 <h3 align="center">Passionate and Skilled Full Stack Web Developer.</h3>
 
 ## 💫 About Me -
 
-I am a Full Stack Web Developer with 2 years of experience specializing in React, Next.js, TypeScript, Tailwind CSS, MongoDB, PostgreSQL, Express.js, and Node.js. I focus on building smooth, efficient, and user-friendly web applications. Highly motivated to learn and collaborate, I strive to deliver impactful solutions and contribute effectively to any team.
+I am a Full Stack Web Developer with 2 years of experience building dynamic, full-scale applications. Navigating the tech world through a Linux terminal, I specialize in the React/Next.js ecosystem on the frontend and Node.js/Express on the backend, supported by MongoDB and PostgreSQL. I am a dedicated coder and collaborative problem-solver, driven by a passion for creating smooth, user-friendly software and mastering the tools that make it possible.
 
 <br>
 
@@ -85,7 +89,7 @@ I am a Full Stack Web Developer with 2 years of experience specializing in React
           <td><a href="mailto:sadidhasan56@gmail.com">sadidhasan56@gmail.com</a></td>
         <tr>
           <td>➡️ <strong>Portfolio</strong></td>
-          <td><a href="https://sadidx.me">https://sadid.vercel.app</a></td>
+          <td><a href="https://sadidx.me">https://sadidx.me</a></td>
       </table>
     </td>
     <td style="width: 50%; vertical-align: top;">
