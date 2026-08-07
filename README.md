@@ -1,6 +1,6 @@
 <div align="center">
-  <!-- Animated Terminal Code GIF -->
-  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="100%" alt="Coding Banner" style="border-radius: 15px;"/>
+  <!-- Animated Terminal Code GIF (Minimal Height) -->
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="100%" height="150" alt="Coding Banner" style="border-radius: 15px; object-fit: cover;"/>
 
   <br>
   <br>
