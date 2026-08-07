@@ -41,7 +41,7 @@ I am a Full Stack Web Developer with 2 years of experience specializing in React
         <img width="20" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB logo" />
         <img width="20" />
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1985px-Postgresql_elephant.svg.png" height="40"            alt="Postgres Logo" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/960px-Postgresql_elephant.svg.png" height="40"            alt="Postgres Logo" />
         <img width="20" />
         <img src="https://cdn.worldvectorlogo.com/logos/prisma-2.svg" height="40" alt="Prisma Logo" />
         <img width="20" />
