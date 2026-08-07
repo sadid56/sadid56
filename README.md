@@ -1,7 +1,8 @@
 <div align="center">
-  <!-- Animated Waving Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:0F172A&height=200&section=header&animation=twinkling" width="100%" alt="Header Banner"/>
+  <!-- Animated Terminal Code GIF -->
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="100%" alt="Coding Banner" style="border-radius: 15px;"/>
 
+  <br>
   <br>
 
   <h1>Hey 👋, I'm Sadid</h1>
