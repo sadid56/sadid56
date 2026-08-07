@@ -1,13 +1,16 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggmaHIlsU/giphy.gif" alt="LoFi Coding Banner" width="800" style="border-radius: 10px;" />
-</div>
+  <!-- Animated Waving Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:0F172A&height=200&section=header&animation=twinkling" width="100%" alt="Header Banner"/>
 
-<h1 align="center">Hey 👋, I'm Sadid</h1>
-<p align="center">
+  <br>
+
+  <h1>Hey 👋, I'm Sadid</h1>
+
+  <!-- Dynamic Typing Text -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=3B82F6&center=true&vCenter=true&width=800&height=100&lines=Software+Developer;Full+Stack+Web+Developer;Linux+Community+Helper;Always+Building.+Always+Learning." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=3B82F6&center=true&vCenter=true&width=800&height=60&lines=Software+Engineer;Full+Stack+Web+Developer;Arch+Linux+Power+User" alt="Typing SVG" />
   </a>
-</p>
+</div>
 
 ## 💫 About Me -
 
