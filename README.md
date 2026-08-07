@@ -85,7 +85,7 @@ I am a Full Stack Web Developer with 2 years of experience specializing in React
           <td><a href="mailto:sadidhasan56@gmail.com">sadidhasan56@gmail.com</a></td>
         <tr>
           <td>➡️ <strong>Portfolio</strong></td>
-          <td><a href="https://sadid.vercel.app">https://sadid.vercel.app</a></td>
+          <td><a href="https://sadidx.me">https://sadid.vercel.app</a></td>
       </table>
     </td>
     <td style="width: 50%; vertical-align: top;">
